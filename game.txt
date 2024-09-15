@@ -105,20 +105,20 @@ Buildings
 		req:4000 bunnies:earned
 	
 	*meadow|meadows
-		name:Rabbit meadow|Rabbit meadows
+		name:Eukaryotic Cell|Eukaryotic Cells
 		desc:A wide open space full of shade and lush grass.<//><b>Effect:</b><.>Produces 90 rabbits per second.
 		icon:icons[3,4]
-		cost:20000 bunnies
-		on tick:yield 90 bunnies
-		req:20000 bunnies:earned
+		cost:3000 bunnies
+		on tick:yield 5 bunnies
+		req:3000 bunnies:earned
 	
 	*village|villages
-		name:Rabbit village|Rabbit villages
+		name:fungi|fungis
 		desc:Your bunnies are building their own villages now!<//><b>Effect:</b><.>Produces 300 rabbits per second.
 		icon:icons[3,5]
-		cost:200000 bunnies, 1 goldenCarrot
-		on tick:yield 300 bunnies
-		req:200000 bunnies:earned and independenceDay
+		cost:9e15 bunnies
+		on tick:yield 5e10 bunnies
+		req:9e15 bunnies:earned
 		
 	*city|cities
 		name:Rabbit city|Rabbit cities
