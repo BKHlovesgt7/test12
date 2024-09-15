@@ -89,12 +89,12 @@ Buildings
 		req:100 bunnies:earned
 	
 	*coop|coops
-		name:Rabbit coop|Rabbit coops
+		name:Prokaryotic Cell|Prokaryotic Cells
 		desc:A much nicer rabbit home where full bunny families can live.<//><b>Effect:</b><.>Produces 5 rabbits per second.
 		icon:icons[3,2]
-		cost:600 bunnies
-		on tick:yield 5 bunnies
-		req:600 bunnies:earned
+		cost:500 bunnies
+		on tick:yield 2 bunnies
+		req:500 bunnies:earned
 	
 	*pen|pens
 		name:Rabbit pen|Rabbit pens
