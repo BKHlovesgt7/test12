@@ -7,11 +7,11 @@ Let's make a game!
 	version:1
 
 Settings
-	background:stuff/meadow.jpg
+	background:https://orteil.dashnet.org/igm//stuff/meadow.jpg
 	building cost increase:115%
 	building cost refund:50%
-	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
-	stylesheet:stuff/bigBlue.css
+	spritesheet:icons, 48 by 48, https://orteil.dashnet.org/igm//stuff/bunnyIcons.png
+	stylesheet:https://orteil.dashnet.org/igm/stuff/bigBlue.css
 
 Layout
 	use default
@@ -23,7 +23,7 @@ Buttons
 		on click:anim icon wobble
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:https://raw.githubusercontent.com/BKHlovesgt7/test12/refs/heads/main/goldCookie.png
+		icon:https://orteil.dashnet.org/igm/stuff/bunny.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
