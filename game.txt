@@ -118,7 +118,7 @@ Buildings
 		icon:icons[3,5]
 		cost:9e15 bunnies
 		on tick:yield 5e10 bunnies
-		req:9e15 bunnies:earned
+		req:10 bunnies:earned
 		
 	*city|cities
 		name:Rabbit city|Rabbit cities
