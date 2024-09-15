@@ -1,9 +1,9 @@
 Let's make a game!
-	name:cell
-	by:BKHlovesgames
+	name:Bunny Clicker
+	by:Orteil
 	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
-	created:9/14/2024
-	updated:9/14/2024
+	created:25/7/2017
+	updated:24/10/2017
 	version:1
 
 Settings
@@ -74,10 +74,10 @@ Buildings
 		
 	*cage|cages
 		name:Amino Acid|Amino Acids
-		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 20 seconds.
-		icon:icons[3,1]
-		cost:20 bunnies
-		on tick:yield 0.05 bunny
+		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 10 seconds.
+		icon:icons[3,0]
+		cost:15 bunnies
+		on tick:yield 0.1 bunny
 		unlocked
 	
 	*hutch|hutches
