@@ -155,12 +155,12 @@ Upgrades
 	//inspiration : http://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/
 	
 	*parsley
-		name:Parsley
+		name:Nucleotides
 		desc:A nice little supplement to your bunnies' diet.<//><b>Effect:</b><.>+1 bunny/click
 		icon:icons[1,1]
-		cost:100 bunnies
+		cost:40 bunnies
 		passive:increase bunny yield of bunnyButton by 1
-		req:10 bunnies:earned
+		req:40 bunnies:earned and cages>=2
 		
 	*spinach
 		name:Spinach
