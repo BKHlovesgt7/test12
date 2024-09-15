@@ -23,7 +23,7 @@ Buttons
 		on click:anim icon wobble
 		on click:yield 1 bunny
 		on click:if (have goldenTouch and chance(1%)) yield 1 goldenCarrot
-		icon:https://orteil.dashnet.org/igm/stuff/bunny.png
+		icon:https://raw.githubusercontent.com/BKHlovesgt7/test12/refs/heads/main/bunny.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
