@@ -179,7 +179,7 @@ Upgrades
 		
 	*broccoli
 		name:Cytoplasm
-		desc:Crunchy greens that look like little trees.<//><b>Effect:</b><.>None
+		desc:Crunchy greens that look like little trees.<//><b>Effect:</b><.>none
 		icon:icons[1,4]
 		cost:6,750 bunnies
 		req:6,750 bunnies:earned and pen>=1
