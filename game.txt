@@ -171,12 +171,12 @@ Upgrades
 		req:240 bunnies:earned and hutch>=1
 		
 	*lettuce
-		name:Lettuce
-		desc:Frilly greens loved by all bunnies.<//><b>Effect:</b><.>+1 bunny/click
+		name:Mitosis
+		desc:Frilly greens loved by all bunnies.<//><b>Effect:</b><.>+14 bunny/click
 		icon:icons[1,3]
-		cost:400 bunnies
-		passive:increase bunny yield of bunnyButton by 1
-		req:200 bunnies:earned
+		cost:2500 bunnies
+		passive:increase bunny yield of bunnyButton by 14
+		req:2500 bunnies:earned coop>=1
 		
 	*broccoli
 		name:Broccoli
