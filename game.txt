@@ -86,7 +86,7 @@ Buildings
 		icon:icons[3,1]
 		cost:100 bunnies
 		on tick:yield 0.25 bunnies
-		req:100 bunnies:earned and parsley
+		req:100 bunnies:earned and have parsley
 	
 	*coop|coops
 		name:Prokaryotic Cell|Prokaryotic Cells
