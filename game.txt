@@ -11,7 +11,7 @@ Settings
 	building cost increase:115%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, https://orteil.dashnet.org/igm/stuff/bunnyIcons.png
-	stylesheet:https://orteil.dashnet.org/igm/stuff/bigBlue.css
+	stylesheet:https://raw.githubusercontent.com/BKHlovesgt7/test12/refs/heads/main/bigblue.txt
 
 Layout
 	use default
