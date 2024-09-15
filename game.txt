@@ -176,7 +176,7 @@ Upgrades
 		icon:icons[1,3]
 		cost:2500 bunnies
 		passive:increase bunny yield of bunnyButton by 14
-		req:2500 bunnies:earned coop>=1
+		req:2500 bunnies:earned and coop>=1
 		
 	*broccoli
 		name:Broccoli
