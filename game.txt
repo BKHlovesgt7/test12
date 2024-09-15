@@ -116,17 +116,17 @@ Buildings
 		name:fungi|fungis
 		desc:Your bunnies are building their own villages now!<//><b>Effect:</b><.>Produces 300 rabbits per second.
 		icon:icons[3,5]
-		cost:9e15 bunnies
-		on tick:yield 5e10 bunnies
-		req:10 bunnies:earned
+		cost:9000000000000000 bunnies
+		on tick:yield 50000000000 bunnies
+		req:9000000000000000 bunnies:earned
 		
 	*city|cities
-		name:Rabbit city|Rabbit cities
+		name:Sponge|Sponges
 		desc:A bustling little city, populated with busy rabbits.<//><b>Effect:</b><.>Produces 1000 rabbits per second.
 		icon:icons[3,6]
-		cost:3000000 bunnies, 4 goldenCarrots
-		on tick:yield 1000 bunnies
-		req:3000000 bunnies:earned and independenceDay
+		cost:10000 bunnies
+		on tick:yield 20 bunnies
+		req:10000 bunnies:earned
 		
 	*citadel|citadels
 		name:Moon citadel|Moon citadels
