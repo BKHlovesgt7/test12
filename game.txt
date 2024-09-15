@@ -179,13 +179,12 @@ Upgrades
 		req:2500 bunnies:earned and coop>=1
 		
 	*broccoli
-		name:Broccoli
-		desc:Crunchy greens that look like little trees.<//><b>Effect:</b><.>bunnies/click x2<.>bunny production +5%
+		name:Cytoplasm
+		desc:Crunchy greens that look like little trees.<//><b>Effect:</b><.>None
 		icon:icons[1,4]
-		cost:3000 bunnies
-		passive:multiply bunny yield of bunnyButton by 2
-		passive:multiply yield of bunnies by 1.05
-		req:1000 bunnies:earned
+		cost:6,750 bunnies
+		passive:None
+		req:6,750 bunnies:earned and pen>=1
 		
 	*apple
 		name:Apple
