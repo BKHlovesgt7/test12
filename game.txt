@@ -1,9 +1,9 @@
 Let's make a game!
-	name:cell to sing
-	by:BKHlovesgames
+	name:Bunny Clicker
+	by:Orteil
 	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
-	created:9/14/2024
-	updated:9/14/2024
+	created:25/7/2017
+	updated:24/10/2017
 	version:1
 
 Settings
@@ -74,7 +74,7 @@ Buildings
 		
 	*cage|cages
 		name:Rabbit cage|Rabbit cages
-		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbits every 20 seconds.
+		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 20 seconds.
 		icon:https://www.thoughtco.com/thmb/vJodSOJyFjYFFi5GoMp4zdFzym0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amino_acid-1b0e0369462e47c6aa53a45d404715ae.jpg
 		cost:20 bunnies
 		on tick:yield 0.05 bunny
