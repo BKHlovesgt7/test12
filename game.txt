@@ -129,13 +129,12 @@ Buildings
 		req:40000 bunnies:earned
 		
 	*citadel|citadels
-		name:Moon citadel|Moon citadels
-		desc:An ornate palace standing on the moon, ruled by bunny kings and queens and staffed with royal bunny guards.<//><b>Effect:</b><.>Produces 4000 rabbits per second.
+		name:Flatworm|Flatworms
+		desc:An ornate palace standing on the moon, ruled by bunny kings and queens and staffed with royal bunny guards.<//><b>Effect:</b><.>Produces 200 rabbits per second.
 		icon:icons[3,7]
-		cost:70000000 bunnies, 16 goldenCarrots
-		on tick:yield 4000 bunnies
-		on tick:if (have moonGardens) yield 0.01 goldenCarrot
-		req:70000000 bunnies:earned and independenceDay
+		cost:200000 bunnies
+		on tick:yield 200 bunnies
+		req:200000 bunnies:earned
 		
 	*fortress
 		name:Freedom fortress
