@@ -72,7 +72,7 @@ Buildings
 	*TEMPLATE
 		on click:anim glow
 		
-	*AminoAcid|AminoAcids
+	*cage|cages
 		name:Rabbit cage|Rabbit cages
 		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbits every 20 seconds.
 		icon:https://www.thoughtco.com/thmb/vJodSOJyFjYFFi5GoMp4zdFzym0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/amino_acid-1b0e0369462e47c6aa53a45d404715ae.jpg
