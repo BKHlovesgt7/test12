@@ -97,36 +97,36 @@ Buildings
 		req:500 bunnies:earned
 	
 	*pen|pens
-		name:Rabbit pen|Rabbit pens
+		name:Eukaryotic Cell|Eukaryotic Cells
 		desc:A lovely enclosure with plenty of green space.<//><b>Effect:</b><.>Produces 12 rabbits per second.
 		icon:icons[3,3]
-		cost:4000 bunnies
-		on tick:yield 12 bunnies
-		req:4000 bunnies:earned
-	
-	*meadow|meadows
-		name:Eukaryotic Cell|Eukaryotic Cells
-		desc:A wide open space full of shade and lush grass.<//><b>Effect:</b><.>Produces 90 rabbits per second.
-		icon:icons[3,4]
 		cost:3000 bunnies
 		on tick:yield 5 bunnies
 		req:3000 bunnies:earned
 	
-	*village|villages
+	*meadow|meadows
 		name:fungi|fungis
-		desc:Your bunnies are building their own villages now!<//><b>Effect:</b><.>Produces 300 rabbits per second.
-		icon:icons[3,5]
+		desc:A wide open space full of shade and lush grass.<//><b>Effect:</b><.>Produces 90 rabbits per second.
+		icon:icons[3,4]
 		cost:9000000000000000 bunnies
 		on tick:yield 50000000000 bunnies
 		req:9000000000000000 bunnies:earned
-		
-	*city|cities
+	
+	*village|villages
 		name:Sponge|Sponges
-		desc:A bustling little city, populated with busy rabbits.<//><b>Effect:</b><.>Produces 1000 rabbits per second.
-		icon:icons[3,6]
+		desc:Your bunnies are building their own villages now!<//><b>Effect:</b><.>Produces 300 rabbits per second.
+		icon:icons[3,5]
 		cost:10000 bunnies
 		on tick:yield 20 bunnies
 		req:10000 bunnies:earned
+		
+	*city|cities
+		name:Jellyfish|Jellyfishs
+		desc:A bustling little city, populated with busy rabbits.<//><b>Effect:</b><.>Produces 1000 rabbits per second.
+		icon:icons[3,6]
+		cost:40000 bunnies
+		on tick:yield 50 bunnies
+		req:40000 bunnies:earned
 		
 	*citadel|citadels
 		name:Moon citadel|Moon citadels
@@ -142,8 +142,8 @@ Buildings
 		text:Freedom fortress ([this]%)
 		desc:A huge bunny castle. A monument to the adventurous spirit of bunnykind, which will take time and effort to complete.<//><b>The fortress is [this]% complete.</b>
 		icon:icons[3,8]
-		cost:300000000 bunnies, 100 goldenCarrots
-		req:70000000 bunnies:earned and independenceDay
+		cost:300000000 bunnies
+		req:70000000 bunnies:earned
 		limit:100
 		cost increase:105%
 		
