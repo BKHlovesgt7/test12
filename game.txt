@@ -163,12 +163,12 @@ Upgrades
 		req:40 bunnies:earned and cages>=2
 		
 	*spinach
-		name:Spinach
-		desc:Big tasty leaves, perfect for hungry bunnies.<//><b>Effect:</b><.>+1 bunny/click
+		name:Moon
+		desc:Big tasty leaves, perfect for hungry bunnies.<//><b>Effect:</b><.>+4 bunny/click
 		icon:icons[1,2]
-		cost:200 bunnies
-		passive:increase bunny yield of bunnyButton by 1
-		req:50 bunnies:earned
+		cost:240 bunnies
+		passive:increase bunny yield of bunnyButton by 4
+		req:240 bunnies:earned and hutch>=1
 		
 	*lettuce
 		name:Lettuce
