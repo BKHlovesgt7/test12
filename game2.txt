@@ -8,7 +8,7 @@ Let's make a game!
 
 Settings
 	background:https://orteil.dashnet.org/igm/stuff/meadow.jpg
-	building cost increase:6.975%
+	building cost increase:106.975%
 	building cost refund:50%
 	spritesheet:icons, 48 by 48, https://raw.githubusercontent.com/BKHlovesgt7/test12/refs/heads/main/bb.png
 	stylesheet:https://raw.githubusercontent.com/BKHlovesgt7/test12/refs/heads/main/bigbluess.txt
