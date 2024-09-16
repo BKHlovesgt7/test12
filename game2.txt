@@ -74,9 +74,9 @@ Buildings
 		
 	*cage|cages
 		name:Amino Acid|Amino Acids
-		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 10 seconds.
+		desc:A tiny little cage.<//><b>Effect:</b><.>increase bunny yield of bunnyButton by 1.
 		icon:icons[3,0]
-		cost:20 bunnies
+		cost:5 bunnies
 		passive:increase bunny yield of bunnyButton by 1
 		unlocked
 	
